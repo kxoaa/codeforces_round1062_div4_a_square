@@ -1,0 +1,1 @@
+# codeforces_round1062_div4_a_square
